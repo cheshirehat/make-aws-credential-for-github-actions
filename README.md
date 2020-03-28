@@ -1,0 +1,1 @@
+# make-aws-credential-for-github-actions
